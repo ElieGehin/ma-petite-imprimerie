@@ -1,0 +1,12 @@
+.activities {
+    display: flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+    align-items: center;
+}
+
+.activity {
+    border: solid 10px black;
+    padding: 10px;
+    margin: 10px;;
+}
